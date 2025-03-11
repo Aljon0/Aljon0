@@ -1,7 +1,6 @@
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aljon0&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aljon0&layout=compact&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com?user=Aljon0&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 <!--
 **Aljon0/Aljon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
