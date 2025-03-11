@@ -1,8 +1,9 @@
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aljon0&layout=compact&theme=dark)
-[![Aljon0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aljon0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aljon0&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aljon0&layout=compact&theme=default)
+
+[![Aljon0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aljon0&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aljon0&theme=meta-light&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 <!--
 **Aljon0/Aljon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
