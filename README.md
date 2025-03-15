@@ -1,5 +1,5 @@
 [![Aljon0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aljon0&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aljon0&theme=default&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aljon0&theme=meta-light&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aljon0&layout=compact&theme=default)
 <!--
