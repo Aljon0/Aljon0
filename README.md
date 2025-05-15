@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-I craft elegant, user-friendly web with a focus on performance and clean code.
+I craft sleek, user-friendly web with a focus on performance and clean code.
 
 <div align="center">
   
