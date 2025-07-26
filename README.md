@@ -1,6 +1,6 @@
 # Hi there, I'm Al-jon B. Santiago 👋
 
-## Web Developer
+## Full Stack Developer 
 
 I craft sleek, user-friendly web with a focus on performance and clean code.
 
