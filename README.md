@@ -1,6 +1,6 @@
 # Hi, I’m Al-Jon B. Santiago 
 
-## Full-Stack Developer | AI Engineer  
+## Full-Stack AI Developer 
 
 I build **modern, scalable web applications** with a strong focus on **AI integration, performance, and clean architecture**.  
 My work blends **full-stack engineering** with **LLM-powered features** to create practical, production-ready solutions.
@@ -35,8 +35,6 @@ My work blends **full-stack engineering** with **LLM-powered features** to creat
   <p>
     <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
   </p>
 </div>
